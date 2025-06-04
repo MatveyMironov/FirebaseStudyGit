@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "16706245393",
+    "firebase_url": "https://webdatabasestudy-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "webdatabasestudy",
+    "storage_bucket": "webdatabasestudy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16706245393:android:61b9e6d0a624f3e27872b0",
+        "android_client_info": {
+          "package_name": "com.webdatabasestudyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvtpI4FDbbTn3ngHDl-LrxAmMtY6kuVC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
